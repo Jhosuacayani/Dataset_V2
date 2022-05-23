@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'mobil'
+}
+
+item {
+    id: 2
+    name: 'motor'
+}
+
+item {
+    id: 3
+    name: 'truk'
+}
